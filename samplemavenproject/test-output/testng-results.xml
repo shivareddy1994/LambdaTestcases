@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-14T21:22:37 IST" name="Suite" finished-at="2022-02-14T21:26:56 IST" duration-ms="259339">
+    <groups>
+    </groups>
+    <test started-at="2022-02-14T21:22:37 IST" name="TestInChrome" finished-at="2022-02-14T21:25:23 IST" duration-ms="166290">
+      <class name="selenium.Testng1">
+        <test-method is-config="true" signature="setUpClass(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.Testng1@291ae]" started-at="2022-02-14T21:22:37 IST" name="setUpClass" finished-at="2022-02-14T21:22:47 IST" duration-ms="10303" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[98.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="scenarioOne()[pri:0, instance:selenium.Testng1@291ae]" started-at="2022-02-14T21:22:47 IST" name="scenarioOne" finished-at="2022-02-14T21:23:05 IST" duration-ms="17917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioOne -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.Testng1@291ae]" started-at="2022-02-14T21:23:05 IST" name="setUpClass" finished-at="2022-02-14T21:23:15 IST" duration-ms="9815" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[98.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="secondScenario()[pri:1, instance:selenium.Testng1@291ae]" started-at="2022-02-14T21:23:15 IST" name="secondScenario" finished-at="2022-02-14T21:23:52 IST" duration-ms="37586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondScenario -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.Testng1@291ae]" started-at="2022-02-14T21:23:52 IST" name="setUpClass" finished-at="2022-02-14T21:24:03 IST" duration-ms="10271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[98.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="thirdScenario()[pri:2, instance:selenium.Testng1@291ae]" started-at="2022-02-14T21:24:03 IST" name="thirdScenario" finished-at="2022-02-14T21:25:23 IST" duration-ms="80348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdScenario -->
+      </class> <!-- selenium.Testng1 -->
+    </test> <!-- TestInChrome -->
+    <test started-at="2022-02-14T21:22:37 IST" name="TestInMicrosoftEdge" finished-at="2022-02-14T21:26:56 IST" duration-ms="259339">
+      <class name="selenium.Testng1">
+        <test-method is-config="true" signature="setUpClass(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.Testng1@3c22fc4c]" started-at="2022-02-14T21:22:37 IST" name="setUpClass" finished-at="2022-02-14T21:23:51 IST" duration-ms="74427" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MicrosoftEdge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[95.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[macOS Sierra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="scenarioOne()[pri:0, instance:selenium.Testng1@3c22fc4c]" started-at="2022-02-14T21:23:51 IST" name="scenarioOne" finished-at="2022-02-14T21:24:09 IST" duration-ms="17702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioOne -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.Testng1@3c22fc4c]" started-at="2022-02-14T21:24:09 IST" name="setUpClass" finished-at="2022-02-14T21:24:19 IST" duration-ms="10745" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MicrosoftEdge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[95.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[macOS Sierra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="secondScenario()[pri:1, instance:selenium.Testng1@3c22fc4c]" started-at="2022-02-14T21:24:19 IST" name="secondScenario" finished-at="2022-02-14T21:24:57 IST" duration-ms="37269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondScenario -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.Testng1@3c22fc4c]" started-at="2022-02-14T21:24:57 IST" name="setUpClass" finished-at="2022-02-14T21:25:36 IST" duration-ms="39111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MicrosoftEdge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[95.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[macOS Sierra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="thirdScenario()[pri:2, instance:selenium.Testng1@3c22fc4c]" started-at="2022-02-14T21:25:36 IST" name="thirdScenario" finished-at="2022-02-14T21:26:56 IST" duration-ms="80029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdScenario -->
+      </class> <!-- selenium.Testng1 -->
+    </test> <!-- TestInMicrosoftEdge -->
+  </suite> <!-- Suite -->
+</testng-results>
